@@ -1,1 +1,1 @@
-web: gunicorn podomarket_project.wsgi
+web: gunicorn podomarket_project.wsgi 2542
